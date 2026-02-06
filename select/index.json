@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Sharon",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-02-06T05:17:24.019384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweep (feat. Sharon Van Etten)",
+      "artist": "Leverage Models",
+      "has_synced": false,
+      "path": "select/01_Sweep_(feat._Sharon_Van_Etten)_Leverage_Models.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rose of Sharon",
+      "artist": "Title Fight",
+      "has_synced": true,
+      "path": "select/02_Rose_of_Sharon_Title_Fight.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beyond Me (With Sharon Den Adel)",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/03_Beyond_Me_(With_Sharon_Den_Adel)_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Song For Sharon",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/04_Song_For_Sharon_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dentro Sharon",
+      "artist": "Verdena",
+      "has_synced": false,
+      "path": "select/05_Dentro_Sharon_Verdena.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rose of Sharon",
+      "artist": "Camel",
+      "has_synced": true,
+      "path": "select/06_Rose_of_Sharon_Camel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dancing Together (feat. Sharon Jones)",
+      "artist": "David Byrne",
+      "has_synced": false,
+      "path": "select/07_Dancing_Together_(feat._Sharon_Jones)_David_Byrne.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Impossible Weight - feat. Sharon Van Etten",
+      "artist": "Deep Sea Diver feat. Sharon Van Etten",
+      "has_synced": true,
+      "path": "select/08_Impossible_Weight_-_feat._Sharon_Van_Etten_Deep_Sea_Diver_feat._Sharon_Van_Etten.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Impossible Weight (Feat. Sharon Van Etten)",
+      "artist": "Deep Sea Diver",
+      "has_synced": true,
+      "path": "select/09_Impossible_Weight_(Feat._Sharon_Van_Etten)_Deep_Sea_Diver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feliz Navidad (feat. Michael Monroe, Doro Pesch, Tony Kakko, Elize Ryd, Marko Saaresto, Timo Kotipelto, Simone Simons, Cristina Scabbia, Joe Lynn Turner, Floor Jansen, Hansi Kürsch & Sharon Den Adel) [Barbuda Relief and Recovery Charity Version]",
+      "artist": "Tarja",
+      "has_synced": false,
+      "path": "select/10_Feliz_Navidad_(feat._Michael_Monroe,_Doro_Pesch,_Tony_Kakko,_Elize_Ryd,_Marko_Sa_Tarja.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feliz Navidad (Barbuda Relief and Recovery Charity Version) (feat. Michael Monroe, Doro Pesch, Tony Kakko, Elize Ryd, Marko Saaresto, Timo Kotipelto, Simone Simons, Cristina Scabbia, Joe Lynn Turner, Floor Jansen, Hansi Kürsch & Sharon Den Adel)",
+      "artist": "Tarja Turunen",
+      "has_synced": false,
+      "path": "select/11_Feliz_Navidad_(Barbuda_Relief_and_Recovery_Charity_Version)_(feat._Michael_Monro_Tarja_Turunen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Omnion (feat. Sharon Van Etten)",
+      "artist": "Hercules & Love Affair Sharon Van Etten",
+      "has_synced": true,
+      "path": "select/12_Omnion_(feat._Sharon_Van_Etten)_Hercules_&_Love_Affair_Sharon_Van_Etten.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In And Out Of Love (Feat. Sharon Den Adel (From Within Temptation))",
+      "artist": "Armin Van Buuren Feat. Sharon Den Adel",
+      "has_synced": true,
+      "path": "select/13_In_And_Out_Of_Love_(Feat._Sharon_Den_Adel_(From_Within_Temptation))_Armin_Van_Buuren_Feat._Sharon_Den_Adel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Song for Sharon",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/14_Song_for_Sharon_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rose of Sharon",
+      "artist": "Robben Ford",
+      "has_synced": true,
+      "path": "select/15_Rose_of_Sharon_Robben_Ford.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby [You've Got What It Takes] - with Sharon Jones & the Dap-Kings",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/16_Baby_[You've_Got_What_It_Takes]_-_with_Sharon_Jones_&_the_Dap-Kings_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby (You've Got What It Takes)  (with Sharon Jones & The Dap-Kings)",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/17_Baby_(You've_Got_What_It_Takes)_(with_Sharon_Jones_&_The_Dap-Kings)_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "You Know How To Make Me Feel So Good (Featuring Sharon Paige)",
+      "artist": "Harold Melvin & The Blue Notes",
+      "has_synced": true,
+      "path": "select/18_You_Know_How_To_Make_Me_Feel_So_Good_(Featuring_Sharon_Paige)_Harold_Melvin_&_The_Blue_Notes.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hope That We Can Be Together Soon (Featuring Sharon Paige)",
+      "artist": "Harold Melvin & The Blue Notes",
+      "has_synced": true,
+      "path": "select/19_Hope_That_We_Can_Be_Together_Soon_(Featuring_Sharon_Paige)_Harold_Melvin_&_The_Blue_Notes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sharon",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Sharon_Official髭男dism.txt"
+    }
+  ]
+}
